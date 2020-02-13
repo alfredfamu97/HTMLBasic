@@ -1,0 +1,46 @@
+@charset="UTF-8";
+
+article, aside,footer,header,main,nav, section {
+	display: block;
+}
+
+html, body, h1,ul, li, a, p,
+header, nav {
+	padding: 0;
+	margin: 0;
+}
+
+.banner{
+	background-color: #EF6C00;
+	color: blue
+}
+
+body {
+	
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+}
+
+nav {
+	background-color: blue;
+	margin-top: 1px;
+}
+
+li a {
+	color: orange;
+}
+
+li {
+	display: inline;
+}
+
+form {
+	 color: orange;
+}
+
+p {
+	color: orange;
+}
